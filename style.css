@@ -1,0 +1,81 @@
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+.box2{
+display: flex;
+}
+.div2{
+    margin-right: 5px;
+}
+.mother{
+    display:flex;
+    height: 100vh;
+    justify-content: space-between;
+}
+
+
+
+
+.first{
+    display:flex;
+    height: 100vh;
+    flex-direction: column;
+}
+.네모{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+.second{
+    align-self: center;
+}
+.third{
+    align-self: flex-end;
+}
+
+
+
+
+
+.main{
+    display: flex;
+    justify-content: center;
+  }
+.small{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: white;
+  }
+.big{
+    width: 200px;
+    height: 200px;
+    background-color:pink;
+    color: white;
+    position: relative;
+  }
+.small-1{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+  }
+  
+ 
+.new{
+    background-color:coral;
+    width: 100px;
+    height: 100px;
+}
+.old{
+    background-color: darkkhaki;
+    width:200px;
+    height: 200px;
+}
+.located{
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
