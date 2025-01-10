@@ -76,6 +76,6 @@ display: flex;
 }
 .located{
     position: absolute;
-    left: 30px;
-    top: 30px;
+    left: 50px;
+    top: -50px;
 }
